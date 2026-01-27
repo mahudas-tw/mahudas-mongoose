@@ -1,6 +1,6 @@
 {
   "name": "@mahudas/mongoose",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Mongoose plugin for Mahudas.",
   "main": "app.js",
   "scripts": {
@@ -15,8 +15,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "mahudas": "^0.2.0",
-    "mongoose": "^8.2.0"
+    "mahudas": "^0.2.1",
+    "mongoose": "^8.21.1"
   },
   "devDependencies": {
     "eslint": "^8.25.0",
